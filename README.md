@@ -1,2 +1,15 @@
-# 11044_Bazinga
-Code for the 11044B Vex Robotics Team.
+`**11044B Code for 2024/2025 (High Stakes)**`  
+**Ports**  
+Drivetrain, *Green Motors* - 1/2 *Left* 3/4 *Right*  
+
+**Controller Inputs**   
+DriveTrain - Joysticks  
+More features will be added, after more of the robot has been CADDED and built
+**What's Working**  
+Drivetrain  
+  
+**What's Not Working (WIP)**  
+Everything is working, although more features need to be added.  
+  
+**What is Disabled**  
+Nothing at the moment
