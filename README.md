@@ -12,4 +12,8 @@ Drivetrain
 Everything is working, although more features need to be added.  
   
 **What is Disabled**  
-Nothing at the moment
+Nothing at the moment  
+  
+**Notes to self**  
+Look into LED lights that plug into the brain's threewire port.  
+Make a GUI for the brain, to change Auton modes (even though they're not currently setup) and to change other small settings including the LED lights.
